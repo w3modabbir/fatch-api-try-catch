@@ -1,0 +1,16 @@
+.container{
+  text-align: center;
+  
+}
+.item{
+  border: 1px solid #222;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  width: 300px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  padding: 20px;
+}
+.item img{
+  width: 250px;
+  height: 200px;
+}
